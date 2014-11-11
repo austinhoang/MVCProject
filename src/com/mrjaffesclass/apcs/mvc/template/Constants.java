@@ -12,8 +12,8 @@ package com.mrjaffesclass.apcs.mvc.template;
  */
 public class Constants {
     // Constants
-  public static final int UP = 1;
-  public static final int DOWN = -1;
+  public static final int UP = 2;
+  public static final int DOWN = -2;
 
 
 }

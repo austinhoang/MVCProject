@@ -286,7 +286,7 @@ public class View extends javax.swing.JFrame implements MessageHandler {
   }//GEN-LAST:event_jButton2buttonClickActionPerformed
 
   private void fillButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fillButtonActionPerformed
-    fillButton.setText(textField.getText());
+    fillButton.setText("!!! " + textField.getText() + " !!!");
   }//GEN-LAST:event_fillButtonActionPerformed
 
   /**
